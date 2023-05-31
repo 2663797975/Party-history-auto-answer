@@ -10,8 +10,8 @@ from fuzzywuzzy import fuzz
 
 
 def Config():
-    username = '362532200309266113'
-    name = '吴正文'
+    username = ''
+    name = ''
     return(username,name)
 
 
